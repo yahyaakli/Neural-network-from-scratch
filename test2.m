@@ -1,8 +1,4 @@
-%Reads the text version of the 1000-number MNIST data file and displays the
-%first 100 in a 10X10 array.
-%
-%Written by: Ali Minai(3/14/16)
-
+% DEVELOPED BY YAHYA AKLI
 
 U = load('MNISTnumImages5000_balanced.txt');
 
